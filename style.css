@@ -6,6 +6,7 @@
     --color-white: #ffffff;
     --color-border: #8b95a1;
     --font-main: Arial, sans-serif;
+    --color-visited: #5a3d7a;
 }
 body {
     margin: 0;
@@ -71,7 +72,7 @@ aside a:hover {
 }
 
 aside a:visited {
-    color: #5a3d7a;
+    color: var(--color-visited);
 }
 input:focus,
 textarea:focus {

@@ -1,1 +1,9 @@
-
+:root {
+    --color-main: #5f6875;
+    --color-accent: #1f5f99;
+    --color-text: #24313f;
+    --color-background: #e0e5ec;
+    --color-white: #ffffff;
+    --color-border: #8b95a1;
+    --font-main: Arial, sans-serif;
+}

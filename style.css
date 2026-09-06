@@ -15,3 +15,9 @@ body {
     font-family: var(--font-main);
     line-height: 1.5;
 }
+header h2 {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    margin: 0;
+}

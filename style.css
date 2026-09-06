@@ -37,3 +37,11 @@ section {
     background-color: var(--color-white);
     border-radius: 10px;
 }
+.photo-wrapper {
+    position: relative;
+    width: 200px;
+    height: 200px;
+    margin: 20px auto 0;
+    overflow: hidden;
+    border-radius: 8px;
+}

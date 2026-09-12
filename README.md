@@ -32,27 +32,27 @@
 
 Проверяется свойство `overflow: hidden` у блока с фотографией.
 
-![Проверка выхода за рамки фото](https://github.com/user-attachments/assets/701cf625-f05a-4b77-b588-5619a27daafe)
+![Проверка выхода за рамки фото](https://github.com/dd5589/voznesensky-fedor.932403.lab2/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-09-12%20180611.png)
 
-![Проверка выхода за рамки фото](https://github.com/user-attachments/assets/6606d279-0eef-4b6e-9ebe-fc7cb5623115)
+![Проверка выхода за рамки фото](https://github.com/dd5589/voznesensky-fedor.932403.lab2/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-09-12%20180637.png)
 
 ### 2. Проверка увеличения и смены цвета фото
 
 При наведении на фотографию она увеличивается, а при нажатии становится чёрно-белой.
 
-![Проверка увеличения и смены цвета фото](https://github.com/user-attachments/assets/a343a37d-021c-4c51-8249-a8237d1955a4)
+![Проверка увеличения и смены цвета фото](https://github.com/dd5589/voznesensky-fedor.932403.lab2/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-09-12%20185115.png)
 
 ### 3. Проверка кнопки на смену положения
 
 Проверяется изменение положения кнопки при её нажатии с помощью свойства `transform`.
 
-![Проверка кнопки на смену положения](ССЫЛКА_НА_ФОТО)
+![Проверка кнопки на смену положения](https://github.com/dd5589/voznesensky-fedor.932403.lab2/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-09-12%20184548.png)
 
 ### 4. Проверка ссылки на цвет
 
 Проверяется изменение цвета ссылки после посещения (`:visited`).
 
-![Проверка ссылки на цвет](https://github.com/user-attachments/assets/0a90b36d-7f19-47d0-b405-afaf70327341)
+![Проверка ссылки на цвет](https://github.com/dd5589/voznesensky-fedor.932403.lab2/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-09-12%20184548.png)
 
 ## Запуск
 
